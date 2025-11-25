@@ -20,7 +20,7 @@
 %global __requires_exclude_from %{_exclude_from}
 
 Name:    rubymine
-Version: 2025.2.4
+Version: 2025.2.5
 Release: 1%{?dist}
 Summary: Ruby and Rails IDE with the full stack of essential developer tools
 License: Commercial
