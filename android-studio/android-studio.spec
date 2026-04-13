@@ -20,7 +20,7 @@
 %global __requires_exclude_from %{_exclude_from}
 
 Name:    android-studio
-Version: panda3
+Version: panda3-patch1
 Release: 1%{?dist}
 Summary: The official IDE for Google's Android platform
 License: Apache-2.0
