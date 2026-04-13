@@ -20,7 +20,7 @@
 %global __requires_exclude_from %{_exclude_from}
 
 Name:    android-studio-beta
-Version: panda3-rc1
+Version: panda4-canary4
 Release: 1%{?dist}
 Summary: Integrated development environment for Google's Android platform - Beta Channel
 License: Apache-2.0
