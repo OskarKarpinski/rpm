@@ -20,7 +20,7 @@
 %global __requires_exclude_from %{_exclude_from}
 
 Name:    rider
-Version: 2026.1.0.1
+Version: 2026.1.1
 Release: 1%{?dist}
 Summary: Fast & powerful, cross platform .NET IDE
 License: Commercial
