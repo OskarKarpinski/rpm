@@ -1,6 +1,6 @@
 # setting some global constants
 %global appname idea
-%global build_ver 261.24374.151
+%global build_ver 261.25134.95
 %global idea_name ideaIU
 
 # disable debuginfo subpackage
@@ -22,7 +22,7 @@
 %global __requires_exclude_from %{_exclude_from}
 
 Name:    intellij-idea-ultimate
-Version: 2026.1.2
+Version: 2026.1.3
 Release: 1%{?dist}
 Summary: Capable and Ergonomic Java IDE - Ultimate Edition
 License: Commercial
