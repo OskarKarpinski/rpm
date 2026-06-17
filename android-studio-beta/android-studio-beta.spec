@@ -20,7 +20,7 @@
 %global __requires_exclude_from %{_exclude_from}
 
 Name:    android-studio-beta
-Version: quail1-rc2
+Version: quail2-canary7
 Release: 1%{?dist}
 Summary: Integrated development environment for Google's Android platform - Beta Channel
 License: Apache-2.0
