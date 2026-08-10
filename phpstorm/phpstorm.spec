@@ -20,7 +20,7 @@
 %global __requires_exclude_from %{_exclude_from}
 
 Name:    phpstorm
-Version: 2026.2.0.1
+Version: 2026.2.1
 Release: 1%{?dist}
 Summary: Lightning-smart PHP IDE
 License: Commercial
