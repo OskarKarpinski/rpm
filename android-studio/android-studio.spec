@@ -20,7 +20,7 @@
 %global __requires_exclude_from %{_exclude_from}
 
 Name:    android-studio
-Version: quail4
+Version: quail4-patch1
 Release: 1%{?dist}
 Summary: The official IDE for Google's Android platform
 License: Apache-2.0
